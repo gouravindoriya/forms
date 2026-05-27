@@ -1,0 +1,1 @@
+// "dev": "dotenv -- drizzle-kit studio" write in the db
